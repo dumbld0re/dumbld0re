@@ -4,8 +4,7 @@
   <a href="https://www.instagram.com/dm.pldg/" rel="nofollow">
     <img align="center" src="https://raw.githubusercontent.com/chetachiezikeuzor/chetachiezikeuzor/main/assets/linkedinblue.png" alt="linkedin" height="30px" style="max-width:100%;">
   </a> 
- 
-&nbsp;
+ &nbsp;
    <a href="https://twitter.com/chetachiiii" rel="nofollow">
     <img align="center" src="https://raw.githubusercontent.com/chetachiezikeuzor/chetachiezikeuzor/main/assets/twitterblue.png" alt="blog" height="30px" style="max-width:100%;">
   </a>
